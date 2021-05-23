@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#header{
+    display: flex;
+    justify-content: flex-end;
+    background-color:darkgoldenrod;
+    color: aliceblue;
+    padding:20px 10%;
+    text-align: center;
+}
+#logo{
+    margin-right: auto;
+}
+#nav_links{
+    
+    list-style-type: none;
+    
+    
+}
+#nav_links li{
+    display:inline-block;
+    padding: 0px 20px;
+    font-size: 16px;
+    font-weight: 400;
+    
+    
+}
+#nav_links a{
+    text-decoration: none;
+    color:aliceblue;
+}
+#nav_li:hover{
+    color: aliceblue;
+}
+#button_Contact{
+    padding:4px 15px;
+    border-radius:50px;
+    background-color: burlywood;
+    
+   
+    
+}
+#button_Contact a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 400;
+
+}
+#button_Contact:hover{
+    background-color:darkgoldenrod;
+}
+

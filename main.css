@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+}
+#nav{
+    background-color: white;
+    float:left;
+    
+}
+#main_Body{
+    float:right;
+}
